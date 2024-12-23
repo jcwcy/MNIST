@@ -1,7 +1,7 @@
-torch==1.13.1            # PyTorch 深度学习框架
-torchvision==0.14.1      # PyTorch 的计算机视觉库
-numpy==1.23.1            # 数值计算库
-matplotlib==3.6.0        # 数据可视化库
-tqdm==4.64.0             # 进度条库
-Pillow==9.2.0            # 图像处理库
-scikit-learn==1.1.2      # 机器学习库（可选，用于评估）
+torch==1.13.1            
+torchvision==0.14.1     
+numpy==1.23.1            
+matplotlib==3.6.0        
+tqdm==4.64.0             
+Pillow==9.2.0            
+scikit-learn==1.1.2      
