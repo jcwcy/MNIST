@@ -5,6 +5,7 @@
 
 ## 数据集
 MNIST 数据集：包含 70,000 张手写数字图像（60,000 张训练集，10,000 张测试集），每张图像大小为 28x28 像素，灰度图。数据集存放在 `datasets/` 目录中。
+THE MNIST DATABASE of handwritten digits：https://yann.lecun.com/exdb/mnist/
 
 ## 环境要求
 Python: 3.x
