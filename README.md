@@ -5,7 +5,15 @@
 
 ## 数据集
 MNIST 数据集：包含 70,000 张手写数字图像（60,000 张训练集，10,000 张测试集），每张图像大小为 28x28 像素，灰度图。数据集存放在 `datasets/` 目录中。
-THE MNIST DATABASE of handwritten digits：https://yann.lecun.com/exdb/mnist/
+
+THE MNIST DATABASE of handwritten digits：
+https://yann.lecun.com/exdb/mnist/
+
+Four files are available on this site:
+train-images-idx3-ubyte.gz:  training set images (9912422 bytes)
+train-labels-idx1-ubyte.gz:  training set labels (28881 bytes)
+t10k-images-idx3-ubyte.gz:   test set images (1648877 bytes)
+t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes)
 
 ## 环境要求
 Python: 3.x
