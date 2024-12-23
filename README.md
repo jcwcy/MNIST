@@ -24,10 +24,10 @@ python mnist.py<br>
 评估模型
 python evaluation.py<br>
 启动 GUI 应用
-python gui.py<br>
-用户可以在 GUI 中绘制数字并查看模型的识别结果。
+python gui.py
+用户可以在 GUI 中绘制数字并查看模型的识别结果。<br>
 单张图片预测
 python predict.py<br>
-可视化结果
+可视化结果<br>
 test_accuracy.png：显示模型在测试集上的准确率。<br>
 test_loss.png：显示模型训练过程中的损失变化。<br>
